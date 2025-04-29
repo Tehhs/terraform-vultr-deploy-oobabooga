@@ -1,0 +1,11 @@
+.terraform/
+.terraform.lock.hcl
+crash.log
+override.tf
+override.tf.json
+terraform.tfstate
+terraform.tfstate.backup
+*.tfplan
+*.tfvars.json
+secrets.tfvars
+
